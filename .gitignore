@@ -134,3 +134,19 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# TurboRepo cache
+turbo/
+
+# Bun.js cache
+.bun
+
+# Next.js TypeScript errors
+.next/types/
+
+# Storybook cache
+.storybook-out/
+
+# Playwright test results
+playwright-report/
+test-results/
